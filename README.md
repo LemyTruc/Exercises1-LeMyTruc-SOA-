@@ -35,9 +35,13 @@ Bài tập này yêu cầu bạn phát triển một ứng dụng cho phép khá
 
 ### Bước 4: Kiểm Tra và Chạy Ứng Dụng
 - Chạy dịch vụ SOAP trên server.
-- ![Uploading image.png…]()
+[- ![Uploading image.png…]()](https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/WebService.png)
 
 - Mở ứng dụng Windows Form và thử nghiệm với các chức năng đã triển khai.
+     - `GetAllCountries()`: Trả về danh sách tất cả các quốc gia. https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/GetAllCountry.png 
+     - `GetCountryByCode(string countryCode)`: Trả về thông tin quốc gia theo mã. [https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/GetCountryByCode.png](https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/GetCountryByCode.png) 
+     - `GetCityByName(string cityName)`: Trả về thông tin thành phố theo tên. [https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/GetCityByName.png](https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/GetCityByName.png)  
+     - `GetAllCitiesByCountry(string countryCode)`: Trả về tất cả các thành phố của một quốc gia cụ thể. https://github.com/LemyTruc/Exercises1-LeMyTruc-SOA-/blob/main/GetCityByCountryCode.png
 
 ## Kết Quả Đạt Được
 - Triển khai thành công các phương thức xử lý dữ liệu thông qua dịch vụ SOAP.
