@@ -35,6 +35,8 @@ Bài tập này yêu cầu bạn phát triển một ứng dụng cho phép khá
 
 ### Bước 4: Kiểm Tra và Chạy Ứng Dụng
 - Chạy dịch vụ SOAP trên server.
+- ![Uploading image.png…]()
+
 - Mở ứng dụng Windows Form và thử nghiệm với các chức năng đã triển khai.
 
 ## Kết Quả Đạt Được
