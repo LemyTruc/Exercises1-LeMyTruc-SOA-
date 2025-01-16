@@ -49,4 +49,4 @@ Bài tập này yêu cầu bạn phát triển một ứng dụng cho phép khá
 - Phát triển giao diện người dùng cho phép người dùng cuối gửi yêu cầu và xem kết quả.
 
 ## Liên Hệ
-Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, hãy liên hệ với tôi qua email: mytruckrbm@gmail.com
+ mytruckrbm@gmail.com
